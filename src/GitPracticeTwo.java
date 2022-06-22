@@ -2,7 +2,7 @@
 public class GitPracticeTwo {
 	
 	public int sum(int a , int b) {
-		int sum = a+b; 
+		int sum = a-b; 
 		return sum;
 	}
 
